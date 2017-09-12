@@ -1,0 +1,61 @@
+body {
+	background:#ccc;
+}
+
+#main
+{
+	background:#ddd;
+    width:800px;
+    margin:0 auto;
+    padding-left: 10px;
+    height:600px;
+    padding-top:10px;
+}
+.head{
+	float:left;
+	width:50%;
+	text-align:center;
+	font-size:40px;
+    
+}
+#header a {
+     color: #000;
+}
+#header a:hover{
+     color:#00aa00;
+}
+form{
+	margin-top:100px;
+
+}
+.inputs {
+	display: block;
+	width:80%;
+	height:40px;
+	font-size:30px;
+	margin:20px 80px; 
+	padding:10px;
+	
+}
+#check{
+	margin-left:350px;
+	margin-bottom:30px; 
+}
+#btn {
+	display:block;
+	height:60px;
+	width:350px;
+	margin-left:250px;
+	background:#00f;
+	font-size:30px;
+	color:#fff;
+    margin-bottom:30px; 
+}
+#forgot {
+	margin-left:350px;
+	margin-bottom:30px; 
+}
+#result {
+	width: 100%;
+	text-align: center;
+}
